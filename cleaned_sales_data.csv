@@ -1,0 +1,17 @@
+Order_ID,Customer,City,Category,Quantity,Price,Date,Region,Product,Sales,Month
+101,Amit,Delhi,Electronics,2,1500,2026-01-05,North,Mixer,3000,1
+102,Riya,Mumbai,Clothing,5,60,2026-01-10,North,Rice Bag,300,1
+103,Rahul,Delhi,Electronics,3,800,2026-02-15,South,Shirt,2400,2
+104,Neha,Pune,Furniture,1,12000,2026-02-20,North,Mobile,12000,2
+105,Aman,Mumbai,Clothing,4,150,2026-03-01,North,Oil Can,600,3
+106,Priya,Delhi,Electronics,2,1200,2026-03-08,South,Jeans,2400,3
+107,Rohit,Pune,Furniture,1,55000,2026-04-12,North,Laptop,55000,4
+108,Pooja,Mumbai,Clothing,6,55,2026-04-18,South,Wheat Bag,330,4
+109,Karan,Delhi,Furniture,1,2500,2026-05-10,North,Jacket,2500,5
+110,Simran,Pune,Electronics,3,1800,2026-05-25,North,Earbuds,5400,5
+111,Sonia,Rewari,Grocery,4,60,2026-03-05,South,Rice Bag,240,3
+112,Amit,Delhi,Clothing,5,450,2026-03-09,North,T-Shirt,2250,3
+113,Vikas,Gurgaon,Electronics,1,25000,2026-03-13,North,Tablet,25000,3
+114,Pooja,Rewari,Grocery,3,150,2026-03-17,South,Oil Can,450,3
+115,Rahul,Delhi,Clothing,2,800,2026-03-21,North,Shirt,1600,3
+116,Sonia,Gurgaon,Electronics,2,1500,2026-03-25,North,Mixer,3000,3
